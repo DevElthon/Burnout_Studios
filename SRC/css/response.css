@@ -1,0 +1,896 @@
+@media (max-width:1920px){
+    header nav { 
+        margin-left: 500px;
+    }
+
+    main{
+        height: 1850px;
+    }
+
+    .Sobre_Nos p{
+        margin-left: 34%;
+        margin-right: 34%;
+    }
+    footer{
+        top: 2050px;
+    }
+}
+/* Chrome */
+@media (max-width:1680px){
+    header nav { 
+        margin-left: 410px;
+    }
+
+    main{
+        height: 1850px;
+    }
+
+    .Sobre_Nos p{
+        margin-left: 32%;
+        margin-right: 32%;
+    }
+
+    footer{
+        top: 1950px;
+    }
+}
+
+@media (max-width:1536px){
+    header nav { 
+        margin-left: 330px;
+    }
+
+    main{
+        height: 1950px;
+    }
+
+    .Sobre_Nos p{
+        margin-left: 30%;
+        margin-right: 30%;
+    }
+
+    footer{
+        top: 2050px;
+    }
+}
+
+@media (max-width:1370px){
+    header nav { 
+        margin-left: 240px;
+    }
+    .GameTitle{
+        margin-left: 700px;
+    }
+    .Descricao{
+        margin-left: 700px;
+        width: 500px;
+    }
+
+    .Sobre_Nos p{
+        margin-left: 28%;
+        margin-right: 28%;
+    }
+
+    footer{
+        top: 1850px;
+    }
+}
+
+@media (max-width:1280px){
+    
+    header nav { 
+        margin-left: 16%;
+    }
+
+    header aside {
+        margin-right: 40px;
+    }
+
+    main{
+        height: 1750px;
+    }
+
+    .GameTitle {
+        margin-left: 600px;
+    }
+    .Descricao{
+        margin-left: 600px;
+        width: 500px;
+    }
+
+    .Sobre_Nos p{
+        margin-left: 25%;
+        margin-right: 25%;
+    }
+    
+    
+    /* fim da main */
+    
+    /* inicio da footer */
+    footer{
+        top: 1750px;
+    }
+}
+
+@media (max-width:1152px){
+    
+    header nav { 
+        margin-left: 140px;
+    }
+
+    header aside {
+        margin-right: 40px;
+    }
+
+    main{
+        height: 1750px;
+    }
+
+    .GameTitle {
+        margin-left: 600px;
+    }
+    .Descricao{
+        margin-left: 600px;
+        width: 500px;
+    }
+
+    .Sobre_Nos p{
+        margin-left: 25%;
+        margin-right: 25%;
+    }
+    
+    
+    /* fim da main */
+    
+    /* inicio da footer */
+    footer{
+        top: 1750px;
+    }
+}
+
+@media (max-width:1024px){
+    
+    header nav { 
+        margin-left: 100px;
+    }
+
+    header aside {
+        margin-right: 20px;
+    }
+
+    main{
+        height: 1650px;
+    }
+
+    .GameTitle {
+        margin-left: 500px;
+    }
+    .Descricao{
+        margin-left: 500px;
+        width: 500px;
+    }
+
+    .Sobre_Nos p{
+        margin-left: 20%;
+        margin-right: 20%;
+    }
+    .Contato .contrate{
+        margin-left: 250px;
+    }   
+    .Contato .fale{
+        margin-right: 250px;
+    } 
+    /* fim da main */
+    
+    /* inicio da footer */
+    footer{
+        top: 1650px;
+    }
+}
+
+@media (max-width:912px){
+    
+    header nav { 
+        margin-left: 40px;
+    }
+
+    header aside {
+        margin-right: 20px;
+    }
+
+    main{
+        height: 1600px;
+    }
+
+    .GameTitle {
+        margin-left: 400px;
+    }
+    .Descricao{
+        margin-left: 400px;
+        width: 500px;
+    }
+
+    .Sobre_Nos p{
+        margin-left: 20%;
+        margin-right: 20%;
+    }
+    .Contato .contrate{
+        margin-left: 200px;
+    }   
+    .Contato .fale{
+        margin-right: 200px;
+    } 
+    /* fim da main */
+    
+    /* inicio da footer */
+    footer{
+        top: 1600px;
+    }
+}
+
+@media (max-width:820px){
+    
+    header nav { 
+        margin-left: 0px;
+    }
+
+    header aside {
+        margin-right: 20px;
+    }
+
+    main{
+        height: 1550px;
+    }
+
+    .GameTitle {
+        margin-left: 300px;
+    }
+    .Descricao{
+        margin-left: 300px;
+        width: 500px;
+    }
+
+    .Sobre_Nos p{
+        margin-left: 15%;
+        margin-right: 15%;
+    }
+    .Contato .contrate{
+        margin-left: 150px;
+    }   
+    .Contato .fale{
+        margin-right: 150px;
+    } 
+    /* fim da main */
+    
+    /* inicio da footer */
+    footer{
+        top: 1550px;
+    }
+}
+
+@media (max-width:768px){
+    
+    header nav { 
+        margin-left: -20px;
+    }
+
+    header aside {
+        margin-right: 0px;
+    }
+
+    main{
+        height: 1550px;
+    }
+
+    .GameTitle {
+        margin-left: 260px;
+    }
+    .Descricao{
+        margin-left: 260px;
+        width: 500px;
+    }
+
+    .Sobre_Nos p{
+        margin-left: 10%;
+        margin-right: 10%;
+    }
+    .Contato .contrate{
+        margin-left: 120px;
+    }   
+    .Contato .fale{
+        margin-right: 120px;
+    } 
+    /* fim da main */
+    
+    /* inicio da footer */
+    footer{
+        top: 1550px;
+    }
+}
+
+@media screen and (max-width:730px){
+    header aside{
+        display: none;
+    }
+    .nav-bar{
+        padding: 1.5rem 4rem;
+    }
+
+    .main-menu{
+        display: none;
+    }
+
+    .mobile-menu-icon {
+        position: fixed;
+        display:block;
+        z-index: 2;
+        margin-top: 60px;
+        margin-right: 15px;
+        margin-left: 460px;
+    }
+
+    .mobile-menu-icon button{
+        background-color: transparent;
+        border: none;
+        cursor: pointer;
+    }
+    .mobile-menu{
+        position: fixed;
+        z-index: -1;
+        height: 120%;
+        width: 40%;
+        background-color: rgba(88, 0, 0, 0.605);
+        margin-left: 425px;
+        margin-top: -100px;
+    }
+    .mobile-menu ul{
+        display: flex;
+        flex-direction: column;
+        padding-bottom: 1rem;
+        margin-top: 450px;
+        text-align: center;
+        
+    }
+    .mobile-menu ul li{
+        display: block;
+        padding: 1rem 2rem;
+        
+    }
+    .mobile-menu ul li a{
+        color: white;
+        font-size: 30px;
+    }
+}
+
+@media (max-width:540px){
+    header aside{
+        display: none;
+    }
+
+    .Logo{
+        width: 50%;
+        margin-top: 30px;
+    }
+
+    .mobile-menu-icon{
+        margin-top: 70px;
+        margin-bottom: 70px;
+        margin-left: 280px;
+    }
+
+    .mobile-menu{
+        width: 50%;
+        height: 160%;
+        margin-left: 300px;
+    }
+
+    .mobile-menu ul{
+        margin-top: 500px;
+    }
+
+    main{
+        height: 1400px;
+    }
+
+    .GameTitle {
+        font-size: 50px;
+        margin-top: 10px;
+        margin-left: 300px;
+    }
+    .Descricao{
+        font-size: 16px;
+        margin-top: 70px;
+        margin-left: 300px;
+        width: 200px;
+    }
+
+    .Sobre_Nos h2{
+        font-size: 60px;
+        margin-top: 50px;
+    }
+
+    .Sobre_Nos p{
+        width: 400px;
+        margin-left: 70px;
+    }
+
+    .Contato{
+        font-size: 18px;
+    }
+    .Contato .contrate{
+        margin-left: 50px;
+    }   
+    .Contato .fale{
+        margin-right: 50px;
+    } 
+    
+    footer{
+        top: 1400px;
+    }
+    
+}
+
+@media (max-width:416px){
+    header aside{
+        display: none;
+    }
+
+    .Logo{
+        width: 40%;
+        margin-top: 50px;
+    }
+
+    .mobile-menu-icon{
+        margin-top: 70px;
+        margin-bottom: 70px;
+        margin-left: 260px;
+    }
+
+    .mobile-menu{
+        width: 50%;
+        height: 160%;
+        margin-left: 225px;
+    }
+
+    .mobile-menu ul{
+        margin-top: 500px;
+    }
+
+    main{
+        height: 1700px;
+    }
+
+    .GameTitle {
+        font-size: 40px;
+        margin-top: 10px;
+        margin-left: 200px;
+    }
+    .Descricao{
+        font-size: 14px;
+        margin-top: 60px;
+        margin-left: 200px;
+        width: 180px;
+    }
+
+    .Sobre_Nos h2{
+        font-size: 60px;
+        margin-top: 50px;
+    }
+
+    .Sobre_Nos p{
+        width: 300px;
+        margin-left: 60px;
+    }
+
+    .Contato{
+        font-size: 18px;
+    }
+    .Contato .contrate{
+        margin-left: 120px;
+    }   
+    .Contato .fale{
+        margin-right: 120px;
+    } 
+    footer{
+        top: 1700px;
+    }
+    
+}
+
+@media (max-width:414px){
+    header aside{
+        display: none;
+    }
+
+    .Logo{
+        width: 40%;
+        margin-top: 50px;
+    }
+
+    .mobile-menu-icon{
+        margin-top: 70px;
+        margin-bottom: 70px;
+        margin-left: 260px;
+    }
+
+    .mobile-menu{
+        width: 50%;
+        height: 160%;
+        margin-left: 225px;
+    }
+
+    .mobile-menu ul{
+        margin-top: 500px;
+    }
+
+    main{
+        height: 1700px;
+    }
+
+    .GameTitle {
+        font-size: 40px;
+        margin-top: 10px;
+        margin-left: 200px;
+    }
+    .Descricao{
+        font-size: 14px;
+        margin-top: 60px;
+        margin-left: 200px;
+        width: 180px;
+    }
+
+    .Sobre_Nos h2{
+        font-size: 60px;
+        margin-top: 50px;
+    }
+
+    .Sobre_Nos p{
+        width: 300px;
+        margin-left: 60px;
+    }
+
+    .Contato{
+        font-size: 18px;
+    }
+    .Contato .contrate{
+        margin-left: 120px;
+    }   
+    .Contato .fale{
+        margin-right: 120px;
+    } 
+    footer{
+        top: 1700px;
+    }
+    
+}
+
+@media (max-width:412px){
+    header aside{
+        display: none;
+    }
+
+    .Logo{
+        width: 40%;
+        margin-top: 50px;
+    }
+
+    .mobile-menu-icon{
+        margin-top: 70px;
+        margin-bottom: 70px;
+        margin-left: 260px;
+    }
+
+    .mobile-menu{
+        width: 50%;
+        height: 160%;
+        margin-left: 225px;
+    }
+
+    .mobile-menu ul{
+        margin-top: 500px;
+    }
+
+    main{
+        height: 1700px;
+    }
+
+    .GameTitle {
+        font-size: 40px;
+        margin-top: 10px;
+        margin-left: 200px;
+    }
+    .Descricao{
+        font-size: 14px;
+        margin-top: 60px;
+        margin-left: 200px;
+        width: 180px;
+    }
+
+    .Sobre_Nos h2{
+        font-size: 60px;
+        margin-top: 50px;
+    }
+
+    .Sobre_Nos p{
+        width: 300px;
+        margin-left: 60px;
+    }
+
+    .Contato{
+        font-size: 18px;
+    }
+    footer{
+        top: 1700px;
+    }
+    
+}
+
+@media (max-width:394px){
+    header aside{
+        display: none;
+    }
+
+    .Logo{
+        width: 50%;
+        margin-top: 50px;
+    }
+
+    .mobile-menu-icon{
+        margin-top: 70px;
+        margin-bottom: 70px;
+        margin-left: 160px;
+    }
+
+    .mobile-menu{
+        width: 50%;
+        height: 160%;
+        margin-left: 210px;
+    }
+
+    .mobile-menu ul{
+        margin-top: 500px;
+    }
+
+    main{
+        height: 1700px;
+    }
+
+    .GameTitle {
+        font-size: 40px;
+        margin-top: 10px;
+        margin-left: 150px;
+    }
+    .Descricao{
+        font-size: 14px;
+        margin-top: 60px;
+        margin-left: 150px;
+        width: 180px;
+    }
+
+    .Sobre_Nos h2{
+        font-size: 60px;
+        margin-top: 50px;
+    }
+
+    .Sobre_Nos p{
+        width: 300px;
+        margin-left: 50px;
+    }
+
+    .Contato{
+        font-size: 18px;
+    }
+    .Contato .contrate{
+        margin-left: 110px;
+    }   
+    .Contato .fale{
+        margin-right: 110px;
+    } 
+    footer{
+        top: 1700px;
+    }
+    
+}
+
+@media (max-width:376px){
+    header aside{
+        display: none;
+    }
+
+    .Logo{
+        width: 50%;
+        margin-top: 50px;
+    }
+
+    .mobile-menu-icon{
+        margin-top: 70px;
+        margin-bottom: 70px;
+        margin-left: 160px;
+    }
+
+    .mobile-menu{
+        width: 50%;
+        height: 160%;
+        margin-left: 200px;
+    }
+
+    .mobile-menu ul{
+        margin-top: 500px;
+    }
+
+    main{
+        height: 1700px;
+    }
+
+    .GameTitle {
+        font-size: 40px;
+        margin-top: 10px;
+        margin-left: 150px;
+    }
+    .Descricao{
+        font-size: 14px;
+        margin-top: 60px;
+        margin-left: 150px;
+        width: 180px;
+    }
+
+    .Sobre_Nos h2{
+        font-size: 60px;
+        margin-top: 50px;
+    }
+
+    .Sobre_Nos p{
+        width: 300px;
+        margin-left: 40px;
+    }
+
+    .Contato{
+        font-size: 18px;
+    }
+    .Contato .contrate{
+        margin-left: 100px;
+    }   
+    .Contato .fale{
+        margin-right: 100px;
+    } 
+    footer{
+        top: 1700px;
+    }
+    
+}
+
+@media (max-width:360px){
+    header aside{
+        display: none;
+    }
+
+    .Logo{
+        width: 50%;
+        margin-top: 50px;
+    }
+
+    .mobile-menu-icon{
+        margin-top: 70px;
+        margin-bottom: 70px;
+        margin-left: 160px;
+    }
+
+    .mobile-menu{
+        width: 50%;
+        height: 160%;
+        margin-left: 200px;
+    }
+
+    .mobile-menu ul{
+        margin-top: 500px;
+    }
+
+    main{
+        height: 1700px;
+    }
+
+    .GameTitle {
+        font-size: 40px;
+        margin-top: 10px;
+        margin-left: 150px;
+    }
+    .Descricao{
+        font-size: 14px;
+        margin-top: 60px;
+        margin-left: 150px;
+        width: 180px;
+    }
+
+    .Sobre_Nos h2{
+        font-size: 60px;
+        margin-top: 50px;
+    }
+
+    .Sobre_Nos p{
+        width: 300px;
+        margin-left: 30px;
+    }
+
+    .Contato{
+        font-size: 18px;
+    }
+    .Contato .contrate{
+        margin-left: 100px;
+    }   
+    .Contato .fale{
+        margin-right: 100px;
+    } 
+    footer{
+        top: 1700px;
+    }
+    
+}
+
+@media (max-width:280px){
+    header aside{
+        display: none;
+    }
+
+    .Logo{
+        width: 50%;
+        margin-top: 60px;
+    }
+
+    .mobile-menu-icon{
+        margin-top: 70px;
+        margin-bottom: 70px;
+        margin-left: 80px;
+    }
+
+    .mobile-menu{
+        width: 50%;
+        height: 160%;
+        margin-left: 140px;
+    }
+
+    .mobile-menu ul{
+        margin-top: 500px;
+    }
+
+    main{
+        height: 1550px;
+    }
+
+    .GameTitle {
+        font-size: 40px;
+        margin-top: 10px;
+        margin-left: 100px;
+    }
+    .Descricao{
+        font-size: 10px;
+        margin-top: 60px;
+        margin-left: 100px;
+        width: 160px;
+    }
+
+    .Sobre_Nos h2{
+        font-size: 50px;
+        margin-top: 40px;
+    }
+
+    .Sobre_Nos p{
+        width: 200px;
+        font-size: 16px;
+        margin-left: 40px;
+    }
+
+    .Contato{
+        font-size: 18px;
+    }
+    .Contato .contrate{
+        margin-left: 50px;
+    }   
+    .Contato .fale{
+        margin-right: 50px;
+    } 
+    
+    footer{
+        top: 1550px;
+    }
+    
+}

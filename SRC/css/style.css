@@ -1,0 +1,208 @@
+html{
+    overflow-x: hidden;
+    font-family: 'Agdasima', sans-serif;
+    box-sizing: border-box;
+}
+
+body {
+    max-width: 1920px;
+    background-color: rgb(0, 0, 0);
+}
+hr{
+    width: 100%;
+    border: 2px solid rgb(165, 0, 0);
+}
+
+/* Inicio do hearder */
+header{
+    background-color: rgba(0, 0, 0, 0.634);
+    position: fixed;
+    width: 100%;
+    height: 200px;
+    z-index: 1;
+}
+
+.mobile-menu-icon {
+    display: none;
+}
+
+.mobile-menu{
+    display: none;
+}
+
+.open{
+    display: block;
+}
+
+header nav { 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    float: left;
+    margin-left: 320px;
+    margin-bottom: 80px;
+    margin-top: 80px;
+}
+
+header nav ul {
+    font-size: 25px;
+    list-style: none;
+}
+
+header nav ul li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+header nav ul li a{
+    color: rgb(255, 255, 255);
+}
+
+li a:hover:not(.active) {
+    border-bottom: 2px solid rgb(255, 0, 0);
+}
+
+.active{
+    border-bottom: 2px solid rgb(138, 0, 0);
+}
+
+header aside {
+    margin-top: -120px;
+    width: 200px;
+    margin-right: 20px;
+    float: right;
+    clear: both;
+}
+
+header aside a{
+    margin-left: 10px;
+}
+
+.Logo{
+    height: auto;
+    width: 300px;
+    float: left;
+    margin-top: 20px;
+}
+/* fim do header */
+
+/* comeco main */
+main{
+    position: absolute;
+    height: 1850px;
+    width: 100%;
+}
+
+/* Sessao Jogos_Principais */
+.Jogos_Principais{
+    width: 100%;
+    margin-top: 200px;
+}
+.GameTitle {
+    position: absolute;
+    margin-left: 800px;
+    margin-top: 50px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 100px;
+}
+
+.Descricao{
+    position: absolute;
+    margin-left: 800px;
+    margin-top: 160px;
+    width: 600px;
+    color: rgb(255, 255, 255);
+    font-size: 24px;
+}
+
+.Capy_Img {
+    width: 100%;
+    display: block;
+}
+/*Fim Sessao Jogos_Principais */
+
+/* Inicio da sessao Sobre_nós */
+.Sobre_Nos {
+    color: rgb(255, 255, 255);
+    align-items: center;
+    text-align: center;
+}
+
+.Sobre_Nos h2{
+    font-size: 72px;
+    text-align: center;
+    margin-top: 80px;
+    margin-bottom: 10px;
+}
+
+.Sobre_Nos p{
+    font-size: 20px;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 80px;
+    margin-left: 25%;
+    margin-right: 25%;
+    width: 600px;
+}
+/* Fim da sessao Sobre_nós */
+
+/* Inicio da sessao Contato */
+.Contato{
+    color: rgb(255, 255, 255);
+    align-items: center;
+}
+
+.Contato h2{
+    font-size: 72px;
+    text-align: center;
+    margin-top: 70px;
+    margin-bottom: 10px;
+}
+
+.Contato a{
+    color: rgba(95, 0, 0);
+}
+
+.Contato .contrate {
+    float: left;
+    font-size: 64px;
+    margin-top: 80px;
+    text-align: center;
+    margin-left: 300px;
+}
+
+.Contato .fale {
+    float: right ;
+    font-size: 64px;
+    margin-top: 80px;
+    text-align: center;
+    margin-right: 300px;
+}
+/* Fim da sessao Contato */
+
+/* fim da main */
+
+/* inicio da footer */
+footer{
+    position: absolute;
+    top: 1850px;
+    height: 200px;
+    width: 100%;
+    background-color: rgba(95, 0, 0);
+}
+
+.botoes_link_contato{
+    text-align: center;
+    margin-top: 40px;
+}
+
+.botoes_link_contato a{
+    margin-left:5px;
+}
+
+.copyright{
+    margin-top: 40px;
+    color: white;
+}
+/* Fim da footer */

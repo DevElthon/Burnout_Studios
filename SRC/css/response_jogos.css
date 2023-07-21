@@ -1,0 +1,889 @@
+@media (max-width:1920px){
+    header nav { 
+        margin-left: 500px;
+    }
+    .GameTitle{
+        margin-left: 780px;
+    }
+    .Capy_Jumper{
+        margin-left: 140px;
+    } 
+
+    footer{
+        top: 1450px;
+    }
+}
+
+@media (max-width:1680px){
+    header nav { 
+        margin-left: 410px;
+    }
+
+    main{
+        height: 1250px;
+    }
+    .GameTitle{
+        margin-left: 680px;
+    }
+    .Capy_Jumper{
+        margin-left: 120px;
+    }
+
+    footer{
+        top: 1250px;
+    }
+}
+
+@media (max-width:1536px){
+    header nav { 
+        margin-left: 330px;
+    }
+
+    main{
+        height: 1250px;
+    }
+
+    .GameTitle{
+        margin-left: 600px;
+    }
+
+    footer{
+        top: 1250px;
+    }
+}
+
+@media (max-width:1370px){
+    header nav { 
+        margin-left: 240px;
+    }
+    .GameTitle{
+        margin-left: 520px;
+    }
+    .Capy_Jumper{
+        margin-left: 90px;
+    }
+}
+
+@media (max-width:1280px){
+    
+    header nav { 
+        margin-left: 16%;
+    }
+
+    header aside {
+        margin-right: 40px;
+    }
+
+    main{
+        height: 1100px;
+    }
+    .GameTitle {
+        margin-left: 37%;
+        color: rgb(255, 255, 255);
+        font-size: 100px;
+    }
+    
+    .Capy_Jumper {
+        width: 25%;
+        margin-top: 200px;
+        margin-left: 70px;
+    }
+    
+    .Isekai_Balls {
+        width: 25%;
+        margin-top: 200px;
+        margin-left: 90px;
+    }
+    
+    .Devil_Heart {
+        width: 25%;
+        margin-top: 200px;
+        margin-left: 90px;
+    }
+    
+    /* fim da main */
+    
+    /* inicio da footer */
+    footer{
+        top: 1100px;
+    }
+}
+
+@media (max-width:1152px){
+    
+    header nav { 
+        margin-left: 140px;
+    }
+
+    header aside {
+        margin-right: 40px;
+    }
+
+    main{
+        height: 1100px;
+    }
+    .GameTitle {
+        margin-left: 420px;
+        color: rgb(255, 255, 255);
+        font-size: 100px;
+    }
+    
+    .Capy_Jumper {
+        width: 25%;
+        margin-top: 200px;
+        margin-left: 60px;
+    }
+    
+    .Isekai_Balls {
+        width: 25%;
+        margin-top: 200px;
+        margin-left: 90px;
+    }
+    
+    .Devil_Heart {
+        width: 25%;
+        margin-top: 200px;
+        margin-left: 90px;
+    }
+    
+    /* fim da main */
+    
+    /* inicio da footer */
+    footer{
+        top: 1100px;
+    }
+}
+
+@media (max-width:1024px){
+    
+    header nav { 
+        margin-left: 100px;
+    }
+
+    header aside {
+        margin-right: 20px;
+    }
+
+    main{
+        height: 1000px;
+    }
+    .GameTitle {
+        margin-left: 370px;
+        color: rgb(255, 255, 255);
+        font-size: 100px;
+    }
+    
+    .Capy_Jumper {
+        width: 25%;
+        margin-top: 200px;
+        margin-left: 40px;
+    }
+    
+    .Isekai_Balls {
+        width: 25%;
+        margin-top: 200px;
+        margin-left: 90px;
+    }
+    
+    .Devil_Heart {
+        width: 25%;
+        margin-top: 200px;
+        margin-left: 90px;
+    }
+    /* fim da main */
+    
+    /* inicio da footer */
+    footer{
+        top: 1000px;
+    }
+}
+
+@media (max-width:912px){
+    
+    header nav { 
+        margin-left: 40px;
+    }
+
+    header aside {
+        margin-right: 20px;
+    }
+
+    main{
+        height: 1200px;
+    }
+    .GameTitle {
+        margin-top: 100px;
+        margin-left: 320px;
+        color: rgb(255, 255, 255);
+        font-size: 100px;
+    }
+    
+    .Capy_Jumper {
+        width: 25%;
+        margin-top: 200px;
+        margin-left: 60px;
+    }
+    
+    .Isekai_Balls {
+        width: 25%;
+        margin-top: 200px;
+        margin-left: 50px;
+    }
+    
+    .Devil_Heart {
+        width: 25%;
+        margin-top: 200px;
+        margin-left: 50px;
+    }
+    /* fim da main */
+    
+    /* inicio da footer */
+    footer{
+        top: 1200px;
+    }
+}
+
+@media (max-width:820px){
+    
+    header nav { 
+        margin-left: 0px;
+    }
+
+    header aside {
+        margin-right: 20px;
+    }
+
+    main{
+        height: 1100px;
+    }
+    .GameTitle {
+        margin-top: 100px;
+        margin-left: 260px;
+        color: rgb(255, 255, 255);
+        font-size: 100px;
+    }
+    
+    .Capy_Jumper {
+        width: 25%;
+        margin-top: 200px;
+        margin-left: 50px;
+    }
+    
+    .Isekai_Balls {
+        width: 25%;
+        margin-top: 200px;
+        margin-left: 50px;
+    }
+    
+    .Devil_Heart {
+        width: 25%;
+        margin-top: 200px;
+        margin-left: 50px;
+    }
+    /* fim da main */
+    
+    /* inicio da footer */
+    footer{
+        top: 1100px;
+    }
+}
+
+@media (max-width:768px){
+    
+    header nav { 
+        margin-left: -20px;
+    }
+
+    header aside {
+        margin-right: 0px;
+    }
+
+    main{
+        height: 1100px;
+    }
+    .GameTitle {
+        margin-top: 100px;
+        margin-left: 240px;
+        color: rgb(255, 255, 255);
+        font-size: 100px;
+    }
+    
+    .Capy_Jumper {
+        width: 25%;
+        margin-top: 200px;
+        margin-left: 40px;
+    }
+    
+    .Isekai_Balls {
+        width: 25%;
+        margin-top: 200px;
+        margin-left: 50px;
+    }
+    
+    .Devil_Heart {
+        width: 25%;
+        margin-top: 200px;
+        margin-left: 50px;
+    }
+    /* fim da main */
+    
+    /* inicio da footer */
+    footer{
+        top: 1100px;
+    }
+}
+
+@media screen and (max-width:730px){
+    header aside{
+        display: none;
+    }
+    .nav-bar{
+        padding: 1.5rem 4rem;
+    }
+
+    .main-menu{
+        display: none;
+    }
+
+    .mobile-menu-icon {
+        position: fixed;
+        display:block;
+        z-index: 2;
+        margin-top: 60px;
+        margin-right: 15px;
+        margin-left: 460px;
+    }
+
+    .mobile-menu-icon button{
+        background-color: transparent;
+        border: none;
+        cursor: pointer;
+    }
+    .mobile-menu{
+        position: fixed;
+        z-index: -1;
+        height: 120%;
+        width: 40%;
+        background-color: rgba(88, 0, 0, 0.605);
+        margin-left: 425px;
+        margin-top: -100px;
+    }
+    .mobile-menu ul{
+        display: flex;
+        flex-direction: column;
+        padding-bottom: 1rem;
+        margin-top: 450px;
+        text-align: center;
+        
+    }
+    .mobile-menu ul li{
+        display: block;
+        padding: 1rem 2rem;
+        
+    }
+    .mobile-menu ul li a{
+        color: white;
+        font-size: 30px;
+    }
+}
+
+@media (max-width:540px){
+    header aside{
+        display: none;
+    }
+
+    .Logo{
+        width: 50%;
+        margin-top: 30px;
+    }
+
+    .mobile-menu-icon{
+        margin-top: 70px;
+        margin-bottom: 70px;
+        margin-left: 280px;
+    }
+
+    .mobile-menu{
+        width: 50%;
+        height: 160%;
+        margin-left: 300px;
+    }
+
+    .mobile-menu ul{
+        margin-top: 500px;
+    }
+
+    main{
+        height: 2700px;
+    }
+    .GameTitle {
+        margin-left: 100px;
+        margin-top: 40px;
+        color: rgb(255, 255, 255);
+        font-size: 100px;
+    }
+    
+    .Capy_Jumper {
+        width: 80%;
+        margin-top: 100px;
+        margin-bottom: 100px;
+        margin-left: 55px;
+    }
+    
+    .Isekai_Balls {
+        width: 80%;
+        margin-top: 100px;
+        margin-bottom: 100px;
+        margin-left: 55px;
+    }
+    
+    .Devil_Heart {
+        width: 80%;
+        margin-top: 100px;
+        margin-bottom: 100px;
+        margin-left: 55px;
+    }
+    
+    footer{
+        top: 2700px;
+    }
+    
+}
+
+@media (max-width:416px){
+    header aside{
+        display: none;
+    }
+
+    .Logo{
+        width: 40%;
+        margin-top: 50px;
+    }
+
+    .mobile-menu-icon{
+        margin-top: 70px;
+        margin-bottom: 70px;
+        margin-left: 260px;
+    }
+
+    .mobile-menu{
+        width: 50%;
+        height: 160%;
+        margin-left: 225px;
+    }
+
+    .mobile-menu ul{
+        margin-top: 500px;
+    }
+
+    main{
+        height: 2200px;
+    }
+    .GameTitle {
+        margin-left: 40px;
+        margin-top: 40px;
+        color: rgb(255, 255, 255);
+        font-size: 100px;
+    }
+    
+    .Capy_Jumper {
+        width: 80%;
+        margin-top: 100px;
+        margin-bottom: 100px;
+        margin-left: 45px;
+    }
+    
+    .Isekai_Balls {
+        width: 80%;
+        margin-top: 100px;
+        margin-bottom: 100px;
+        margin-left: 45px;
+    }
+    
+    .Devil_Heart {
+        width: 80%;
+        margin-top: 100px;
+        margin-bottom: 100px;
+        margin-left: 45px;
+    }
+    footer{
+        top: 2200px;
+    }
+    
+}
+
+@media (max-width:414px){
+    header aside{
+        display: none;
+    }
+
+    .Logo{
+        width: 40%;
+        margin-top: 50px;
+    }
+
+    .mobile-menu-icon{
+        margin-top: 70px;
+        margin-bottom: 70px;
+        margin-left: 260px;
+    }
+
+    .mobile-menu{
+        width: 50%;
+        height: 160%;
+        margin-left: 225px;
+    }
+
+    .mobile-menu ul{
+        margin-top: 500px;
+    }
+
+    main{
+        height: 1700px;
+    }
+    .GameTitle {
+        margin-left: 40px;
+        margin-top: 40px;
+        color: rgb(255, 255, 255);
+        font-size: 100px;
+    }
+    
+    .Capy_Jumper {
+        width: 80%;
+        margin-top: 100px;
+        margin-bottom: 100px;
+        margin-left: 45px;
+    }
+    
+    .Isekai_Balls {
+        width: 80%;
+        margin-top: 100px;
+        margin-bottom: 100px;
+        margin-left: 45px;
+    }
+    
+    .Devil_Heart {
+        width: 80%;
+        margin-top: 100px;
+        margin-bottom: 100px;
+        margin-left: 45px;
+    }
+    footer{
+        top: 1700px;
+    }
+    
+}
+
+@media (max-width:412px){
+    header aside{
+        display: none;
+    }
+
+    .Logo{
+        width: 40%;
+        margin-top: 50px;
+    }
+
+    .mobile-menu-icon{
+        margin-top: 70px;
+        margin-bottom: 70px;
+        margin-left: 260px;
+    }
+
+    .mobile-menu{
+        width: 50%;
+        height: 160%;
+        margin-left: 225px;
+    }
+
+    .mobile-menu ul{
+        margin-top: 500px;
+    }
+
+    main{
+        height: 2300px;
+    } 
+
+    .GameTitle {
+        margin-left: 40px;
+        margin-top: 40px;
+        color: rgb(255, 255, 255);
+        font-size: 100px;
+    }
+    
+    .Capy_Jumper {
+        width: 80%;
+        margin-top: 100px;
+        margin-bottom: 100px;
+        margin-left: 45px;
+    }
+    
+    .Isekai_Balls {
+        width: 80%;
+        margin-top: 100px;
+        margin-bottom: 100px;
+        margin-left: 45px;
+    }
+    
+    .Devil_Heart {
+        width: 80%;
+        margin-top: 100px;
+        margin-bottom: 100px;
+        margin-left: 45px;
+    }
+    footer{
+        top: 2300px;
+    }
+    
+}
+
+@media (max-width:394px){
+    header aside{
+        display: none;
+    }
+
+    .Logo{
+        width: 50%;
+        margin-top: 50px;
+    }
+
+    .mobile-menu-icon{
+        margin-top: 70px;
+        margin-bottom: 70px;
+        margin-left: 160px;
+    }
+
+    .mobile-menu{
+        width: 50%;
+        height: 160%;
+        margin-left: 210px;
+    }
+
+    .mobile-menu ul{
+        margin-top: 500px;
+    }
+
+    main{
+        height: 2200px;
+    }
+
+    .GameTitle {
+        margin-left: 30px;
+        margin-top: 40px;
+        color: rgb(255, 255, 255);
+        font-size: 100px;
+    }
+    
+    .Capy_Jumper {
+        width: 80%;
+        margin-top: 100px;
+        margin-bottom: 100px;
+        margin-left: 40px;
+    }
+    
+    .Isekai_Balls {
+        width: 80%;
+        margin-top: 100px;
+        margin-bottom: 100px;
+        margin-left: 40px;
+    }
+    
+    .Devil_Heart {
+        width: 80%;
+        margin-top: 100px;
+        margin-bottom: 100px;
+        margin-left: 40px;
+    }
+    footer{
+        top: 2200px;
+    }
+    
+}
+
+@media (max-width:376px){
+    header aside{
+        display: none;
+    }
+
+    .Logo{
+        width: 50%;
+        margin-top: 50px;
+    }
+
+    .mobile-menu-icon{
+        margin-top: 70px;
+        margin-bottom: 70px;
+        margin-left: 160px;
+    }
+
+    .mobile-menu{
+        width: 50%;
+        height: 160%;
+        margin-left: 200px;
+    }
+
+    .mobile-menu ul{
+        margin-top: 500px;
+    }
+
+    main{
+        height: 2200px;
+    }
+    .GameTitle {
+        margin-left: 20px;
+        margin-top: 40px;
+        color: rgb(255, 255, 255);
+        font-size: 100px;
+    }
+    
+    .Capy_Jumper {
+        width: 80%;
+        margin-top: 100px;
+        margin-bottom: 100px;
+        margin-left: 40px;
+    }
+    
+    .Isekai_Balls {
+        width: 80%;
+        margin-top: 100px;
+        margin-bottom: 100px;
+        margin-left: 40px;
+    }
+    
+    .Devil_Heart {
+        width: 80%;
+        margin-top: 100px;
+        margin-bottom: 100px;
+        margin-left: 40px;
+    }
+
+    footer{
+        top: 2200px;
+    }
+    
+}
+
+@media (max-width:360px){
+    header aside{
+        display: none;
+    }
+
+    .Logo{
+        width: 50%;
+        margin-top: 50px;
+    }
+
+    .mobile-menu-icon{
+        margin-top: 70px;
+        margin-bottom: 70px;
+        margin-left: 160px;
+    }
+
+    .mobile-menu{
+        width: 50%;
+        height: 160%;
+        margin-left: 200px;
+    }
+
+    .mobile-menu ul{
+        margin-top: 500px;
+    }
+
+    main{
+        height: 2200px;
+    }
+    .GameTitle {
+        margin-left: 20px;
+        margin-top: 40px;
+        color: rgb(255, 255, 255);
+        font-size: 100px;
+    }
+    
+    .Capy_Jumper {
+        width: 80%;
+        margin-top: 100px;
+        margin-bottom: 100px;
+        margin-left: 40px;
+    }
+    
+    .Isekai_Balls {
+        width: 80%;
+        margin-top: 100px;
+        margin-bottom: 100px;
+        margin-left: 40px;
+    }
+    
+    .Devil_Heart {
+        width: 80%;
+        margin-top: 100px;
+        margin-bottom: 100px;
+        margin-left: 40px;
+    }
+    footer{
+        top: 2200px;
+    }
+    
+}
+
+@media (max-width:280px){
+    header aside{
+        display: none;
+    }
+
+    .Logo{
+        width: 50%;
+        margin-top: 60px;
+    }
+
+    .mobile-menu-icon{
+        margin-top: 70px;
+        margin-bottom: 70px;
+        margin-left: 80px;
+    }
+
+    .mobile-menu{
+        width: 50%;
+        height: 160%;
+        margin-left: 140px;
+    }
+
+    .mobile-menu ul{
+        margin-top: 500px;
+    }
+
+    main{
+        height: 1700px;
+    }
+    .GameTitle {
+        margin-left: 25px;
+        margin-top: 40px;
+        color: rgb(255, 255, 255);
+        font-size: 70px;
+    }
+    
+    .Capy_Jumper {
+        width: 80%;
+        margin-top: 100px;
+        margin-bottom: 50px;
+        margin-left: 30px;
+    }
+    
+    .Isekai_Balls {
+        width: 80%;
+        margin-top: 100px;
+        margin-bottom: 50px;
+        margin-left: 30px;
+    }
+    
+    .Devil_Heart {
+        width: 80%;
+        margin-top: 100px;
+        margin-bottom: 50px;
+        margin-left: 30px;
+    }
+    
+    footer{
+        top: 1700px;
+    }
+    
+}
